@@ -22,4 +22,5 @@ Maden de canavarların ödül oranı:
 
 Savaş ise sıra tabanlı ve önce kimin başlayacağını sistem belirliyor (%50 ihtimalle)
 
-[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI3MzI4NzRyMmhkaWw3NjRwNjE3ZHV1NGtma2Q0bHpqY2QxNmMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Y8idFDSfNifjXkFp6/giphy.gif]
+
+![Screen Shot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R5eWJob3YwOHJlMjQ3Z2lmb2ZvMHoyeDZuOHJ6MzZ6c2xvMm5zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Y8idFDSfNifjXkFp6/giphy.gif)
