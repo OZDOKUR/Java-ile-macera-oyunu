@@ -24,6 +24,8 @@ Savaş ise sıra tabanlı ve önce kimin başlayacağını sistem belirliyor (%5
 
 (Ekran görüntüleri ve Gifler)
 -------------------------------------------------------------------------------------------------------
+![Screen Shot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenkxbXZ1NGJ6MTFpbzl3eXZkNzE3cjFrdzJ2MnY0YTRteGs1dTZmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVp1SaCs5eeRhNO7hW/giphy.gif )
+
 
 ![Madalya](https://github.com/OZDOKUR/Java-ile-macera-oyunu/assets/95628525/ff7816c5-8e55-4df8-8e26-ff79f58d5038)
 
@@ -45,4 +47,5 @@ Savaş ise sıra tabanlı ve önce kimin başlayacağını sistem belirliyor (%5
 
 ![Screen Shot 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI3MzI4NzRyMmhkaWw3NjRwNjE3ZHV1NGtma2Q0bHpqY2QxNmMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Y8idFDSfNifjXkFp6/giphy.gif )
 
-![Screen Shot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenkxbXZ1NGJ6MTFpbzl3eXZkNzE3cjFrdzJ2MnY0YTRteGs1dTZmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVp1SaCs5eeRhNO7hW/giphy.gif )
+![image](https://github.com/OZDOKUR/Java-ile-macera-oyunu/assets/95628525/5bf31f5b-415a-43cb-a651-8622b2374c5d)
+
